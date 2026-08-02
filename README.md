@@ -15,7 +15,7 @@ professional, portfolio-ready standards.
 | # | Project | Focus | Status |
 |---|---------|-------|--------|
 | 1 | [Data Cleaning & Preparation](projects/project_1_data_cleaning_preparation/) | Missing values, deduplication, format standardization, data integrity verification | ✅ Complete |
-
+| 2 | [Exploratory Data Analysis](projects/project_2_exploratory_data_analysis/) | Descriptive statistics, outlier detection, data visualization & insights | ✅ Complete |
 > More projects will be added here as the internship track progresses
 > (EDA & visualization, SQL analytics, dashboards, and predictive modeling).
 
@@ -31,14 +31,11 @@ professional, portfolio-ready standards.
 ```
 decodelabs_data_analytics/
 ├── projects/
-│   └── project_1_data_cleaning_preparation/
-│       ├── data/
-│       │   ├── raw/
-│       │   └── cleaned/
-│       ├── notebook/
-│       ├── reports/
-│       ├── requirements.txt
-│       └── README.md
+│   ├── project_2_exploratory_data_analysis/
+│   │   ├── data/
+│   │   ├── notebook/
+│   │   ├── reports/
+│   │   └── visuals/
 ├── README.md
 ├── LICENSE
 └── .gitignore
