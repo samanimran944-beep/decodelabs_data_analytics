@@ -42,7 +42,7 @@ jupyter notebook notebook/Data_Cleaning_and_Preparation.ipynb
 ## 👤 Author
 
 **DecodeLabs Data Analytics Intern — Batch 2026**
-📧 decodelabs.tech@gmail.com · 🌎 [decodelabs.tech](https://www.decodelabs.tech) · 📍 Greater Lucknow, India
+📧 decodelabs.tech@gmail.com · 🌎 [decodelabs.tech](https://www.decodelabs.tech) · 
 
 ## 📄 License
 
