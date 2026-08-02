@@ -27,7 +27,36 @@ professional, portfolio-ready standards.
 - **Focus Areas:** Data cleaning & wrangling, exploratory data analysis,
   data visualization, dashboarding
 
+## Repository
 
+decodelabs_data_analytics/
+├── projects/
+│   ├── project_1_data_cleaning_preparation/
+│   │   ├── data/
+│   │   │   ├── raw/
+│   │   │   └── cleaned/
+│   │   ├── notebook/
+│   │   ├── reports/
+│   │   ├── requirements.txt
+│   │   └── README.md
+│   ├── project_2_exploratory_data_analysis/
+│   │   ├── data/
+│   │   ├── notebook/
+│   │   ├── visuals/
+│   │   ├── reports/
+│   │   ├── requirements.txt
+│   │   └── README.md
+│   └── project_3_sql_data_analysis/
+│       ├── data/
+│       ├── database/
+│       ├── sql/
+│       ├── notebook/
+│       ├── reports/
+│       ├── requirements.txt
+│       └── README.md
+├── README.md
+├── LICENSE
+└── .gitignore
 
 ## 🚀 Getting Started
 
