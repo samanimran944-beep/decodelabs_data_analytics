@@ -1,0 +1,5 @@
+pandas>=2.2.0
+jupyter>=1.0.0
+nbformat>=5.10.0
+
+# sqlite3 is part of the Python standard library — no separate install needed
